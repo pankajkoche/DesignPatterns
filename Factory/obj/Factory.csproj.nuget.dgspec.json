@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\work\\DesignPattern\\Factory\\Factory.csproj": {}
+    "H:\\work\\DesignPatterns\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "H:\\work\\DesignPattern\\Factory\\Factory.csproj": {
+    "H:\\work\\DesignPatterns\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\work\\DesignPattern\\Factory\\Factory.csproj",
+        "projectUniqueName": "H:\\work\\DesignPatterns\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "H:\\work\\DesignPattern\\Factory\\Factory.csproj",
+        "projectPath": "H:\\work\\DesignPatterns\\Factory\\Factory.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "H:\\work\\DesignPattern\\Factory\\obj\\",
+        "outputPath": "H:\\work\\DesignPatterns\\Factory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.318\\RuntimeIdentifierGraph.json"
         }
       }
     }

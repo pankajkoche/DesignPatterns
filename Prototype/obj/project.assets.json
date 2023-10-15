@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\work\\DesignPattern\\Prototype\\Prototype.csproj",
+      "projectUniqueName": "H:\\work\\DesignPatterns\\Prototype\\Prototype.csproj",
       "projectName": "Prototype",
-      "projectPath": "H:\\work\\DesignPattern\\Prototype\\Prototype.csproj",
+      "projectPath": "H:\\work\\DesignPatterns\\Prototype\\Prototype.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "H:\\work\\DesignPattern\\Prototype\\obj\\",
+      "outputPath": "H:\\work\\DesignPatterns\\Prototype\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.318\\RuntimeIdentifierGraph.json"
       }
     }
   }

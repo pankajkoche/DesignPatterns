@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\work\\DesignPattern\\Singleton\\Singleton.csproj": {}
+    "H:\\work\\DesignPatterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "H:\\work\\DesignPattern\\Singleton\\Singleton.csproj": {
+    "H:\\work\\DesignPatterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\work\\DesignPattern\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "H:\\work\\DesignPatterns\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "H:\\work\\DesignPattern\\Singleton\\Singleton.csproj",
+        "projectPath": "H:\\work\\DesignPatterns\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "H:\\work\\DesignPattern\\Singleton\\obj\\",
+        "outputPath": "H:\\work\\DesignPatterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.318\\RuntimeIdentifierGraph.json"
         }
       }
     }

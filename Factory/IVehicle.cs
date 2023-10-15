@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace Factory
 {
-    public class CsvReportFactory : ReportFactory
+    public interface IVehicle
     {
-        public override IReport CreateReport()
-        {
-            return new CsvReport();
-        }
+        string VehicleType();
+        int NumberOfWheels();
     }
 }
